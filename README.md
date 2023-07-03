@@ -1,10 +1,10 @@
-<img align="right" alt="Coding" width="400" src="https://wavicledata.com/wp-content/uploads/2021/05/augment_data_ingestion_desktop_v2.gif">
+
 <h1 align="center">Hi 👋, I'm Vinit Bamhane</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Python%20|%20SQL%20|%20Visualization%20;Extract%20Transform%20Load&center=true&width=500&height=50"></a>
 </p>
 
-
+<img align="right" alt="Coding" width="400" src="https://wavicledata.com/wp-content/uploads/2021/05/augment_data_ingestion_desktop_v2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitialize&label=Profile%20views&color=0e75b6&style=flat" alt="vinitialize" /> </p>
 
 - 💬 Ask me about **Python, SQL, Data Warehouse**
